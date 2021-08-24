@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow Zoiiieee!!!</h2></center>
- Since you are the prettiest JoJooii! I want to give you this message. 
+ Since you are the prettiest JoJooii! I want to give you this message. Bhupp!!
  <br>
  <b>Pupppiiiiii</b>
   <!-- END -->
